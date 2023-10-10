@@ -1,0 +1,8 @@
+Pode parecer muito Facil simplesmente criar métodos novos para notificar o 
+usuário, mas não é bem assim que funciona. Por exemplo se voce que tiver que trocar 
+mais de 20 classes que notificam o usuário de coisas diferentes e depois disso 
+tiver que desfazer porque trocaram de ideia. 
+
+É ai que entra a interface Notificador, que é implementada nos métodos de notificação e
+usando do polimorfismo que é a capacidade que um objeto tem de ser visto de diferentes
+formas.
