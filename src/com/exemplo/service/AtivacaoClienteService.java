@@ -3,7 +3,7 @@ package com.exemplo.service;
 import com.exemplo.modelo.Cliente;
 import com.exemplo.notificacao.NotificadorEmail;
 
-public class AtivicaoClienteService {
+public class AtivacaoClienteService {
 	
 	public void ativar(Cliente cliente) {
 		cliente.ativar();
