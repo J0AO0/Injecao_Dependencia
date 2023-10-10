@@ -1,0 +1,7 @@
+O sistema notifica os usuários por email, entretanto deve ser feito uma mudança para que 
+todos recebam as notificações por sms ao invés de e-mail.  
+
+A solução para o problema começa a partir deste commit. 
+A finalidade desse pequeno problema é intensificar e consolidar o conceito e os conhecimentos 
+sobre injeção de dependencias usando primeiramente Java (puro).
+
